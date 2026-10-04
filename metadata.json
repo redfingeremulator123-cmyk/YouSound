@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave - Liquid Glass Audio Stream",
+  "description": "School-friendly liquid glass music streaming hub with curated library, custom playlists, personalized recommendations, account approvals, and broadcast messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
